@@ -1,5 +1,5 @@
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)   
-
+![](https://komarev.com/ghpvc/?username=your-github-LuaRBXBot)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?LuaRBXBot=LuaRBXBott&theme=solarized_dark)
 <!--
 **LuaRBXBot/LuaRBXBot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
