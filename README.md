@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=your-github-LuaRBXBot)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?LuaRBXBot=daniilshat&theme=solarized_dark)](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={LuaRBXBot}&theme={radical}&exclude={C++,Lua})
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?LuaRBXBot=daniilshat&theme=solarized_dark)](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuaRBXBot&theme=radical&exclude=Lua)
 <!--
 **LuaRBXBot/LuaRBXBot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
